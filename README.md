@@ -15,14 +15,14 @@ analysis, visualizations, and recommendations for Instacart.
   The project brief includes the data set as well as other details about the project. The focus and key questions that led to the analysis.
 
 #### 2. Scripts
-  a. Dataframes
-  b. Data Wrangling and Subsetting
-  c. Data Consistency Checks
-  d. Combining and Exporting
-  e. Deriving New Variables using If Statements and Locate functions
-  f. Grouping Data and Aggregating fuctions
-  g. Data Visualizations
-  h. Contents for Final reporting and more visualations
+  ##### a. Dataframes
+  ##### b. Data Wrangling and Subsetting
+  ##### c. Data Consistency Checks
+  ##### d. Combining and Exporting
+  ##### e. Deriving New Variables using If Statements and Locate functions
+  ##### f. Grouping Data and Aggregating fuctions
+  ##### g. Data Visualizations
+  ##### h. Contents for Final reporting and more visualations
 
 #### 3. Analysis
   In this folder I have all of my visualizations that I made for the project. Some were delivered to the client and others were just used either temporarily for analysis or for exploritory reasons
