@@ -9,9 +9,7 @@ to best help thier business continue to grow. With Jupyter Notebooks, I performe
 combining, grouping, aggregating, and visualizing. By the end, I compiled an excel report with a population flow, consistentcy checks,
 analysis, visualizations, and recommendations for Instacart. 
 
-### Instacart Analysis
-
-##### Contents
+### Instacart Analysis Contents
 
 1. Project Brief
   The project brief includes the data set as well as other details about the project. The focus and key questions that led to the analysis.
